@@ -1,0 +1,20 @@
+C:\Users\vuhongtu\Desktop\csharp\tool\tool\bin\Debug\tool.exe.config
+C:\Users\vuhongtu\Desktop\csharp\tool\tool\bin\Debug\tool.exe
+C:\Users\vuhongtu\Desktop\csharp\tool\tool\bin\Debug\tool.pdb
+C:\Users\vuhongtu\Desktop\csharp\tool\tool\obj\Debug\tool.csprojAssemblyReference.cache
+C:\Users\vuhongtu\Desktop\csharp\tool\tool\obj\Debug\tool.Form1.resources
+C:\Users\vuhongtu\Desktop\csharp\tool\tool\obj\Debug\tool.Properties.Resources.resources
+C:\Users\vuhongtu\Desktop\csharp\tool\tool\obj\Debug\tool.csproj.GenerateResource.cache
+C:\Users\vuhongtu\Desktop\csharp\tool\tool\obj\Debug\tool.csproj.CoreCompileInputs.cache
+C:\Users\vuhongtu\Desktop\csharp\tool\tool\obj\Debug\tool.exe
+C:\Users\vuhongtu\Desktop\csharp\tool\tool\obj\Debug\tool.pdb
+C:\Users\vuhongtu\Desktop\csharp (2)\csharp\tool\tool\bin\Debug\tool.exe.config
+C:\Users\vuhongtu\Desktop\csharp (2)\csharp\tool\tool\bin\Debug\tool.exe
+C:\Users\vuhongtu\Desktop\csharp (2)\csharp\tool\tool\bin\Debug\tool.pdb
+C:\Users\vuhongtu\Desktop\csharp (2)\csharp\tool\tool\obj\Debug\tool.csprojAssemblyReference.cache
+C:\Users\vuhongtu\Desktop\csharp (2)\csharp\tool\tool\obj\Debug\tool.Form1.resources
+C:\Users\vuhongtu\Desktop\csharp (2)\csharp\tool\tool\obj\Debug\tool.Properties.Resources.resources
+C:\Users\vuhongtu\Desktop\csharp (2)\csharp\tool\tool\obj\Debug\tool.csproj.GenerateResource.cache
+C:\Users\vuhongtu\Desktop\csharp (2)\csharp\tool\tool\obj\Debug\tool.csproj.CoreCompileInputs.cache
+C:\Users\vuhongtu\Desktop\csharp (2)\csharp\tool\tool\obj\Debug\tool.exe
+C:\Users\vuhongtu\Desktop\csharp (2)\csharp\tool\tool\obj\Debug\tool.pdb
